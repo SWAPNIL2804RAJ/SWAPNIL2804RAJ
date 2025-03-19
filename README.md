@@ -25,4 +25,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnil2804raj&show_icons=true&locale=en&layout=compact" alt="swapnil2804raj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnil2804raj&show_icons=true&locale=en" alt="swapnil2804raj" /></p>
