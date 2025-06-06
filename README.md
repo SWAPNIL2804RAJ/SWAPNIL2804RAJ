@@ -5,7 +5,9 @@
 
 
 
-- 🌱 I’m currently learning **Full Stack Development.**
+🎓 Frsher, B.Tech CSE Student(2025) | 👨‍💻 **Full Stack Developer** | 🚀 **Tech Explorer**
+
+I'm a passionate web developer with a focus on building responsive and scalable web applications. I love working with the MERN stack (MongoDB, Express.js, React.js, Node.js) and enjoy turning ideas into real-world projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/SWAPNIL2804RAJ?tab=repositories](https://github.com/SWAPNIL2804RAJ?tab=repositories)
 
