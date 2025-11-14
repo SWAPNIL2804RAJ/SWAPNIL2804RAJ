@@ -15,7 +15,7 @@ I'm a passionate web developer with a focus on building responsive and scalable 
 
 - 💼 View my Portfolio - [https://swapnilrajportfolio.vercel.app/](https://swapnilrajportfolio.vercel.app/)
 
-- 📄 Know about my experiences - [https://drive.google.com/file/d/1QdI3oR2lmYDJJB5LvqsBHHfLmCnBpU1f/view?usp=sharing](https://drive.google.com/file/d/1NTS7hM81tEbk8d4wK3AkMWKPFKssLqib/view)
+- 📄 Know about my experiences - [https://drive.google.com/file/d/1kws0_xh03Yc95bgEUYAY67AQzBMSBmlE/view](https://drive.google.com/file/d/1kws0_xh03Yc95bgEUYAY67AQzBMSBmlE/view)
 
   
 <h3 align="left">Connect with me:</h3>
