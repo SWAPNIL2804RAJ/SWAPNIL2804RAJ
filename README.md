@@ -1,30 +1,72 @@
+# Hi, I'm Swapnil Raj 👋
 
-<h1 align="center">Hi 👋, I'm Swapnil Raj</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+🚀 Graduate Software Developer | Full-Stack (MERN) | Open Source Enthusiast | GSOC 2026 Aspirant
 
+I am a Computer Science graduate and fresher with a strong interest in building scalable web applications and contributing to open-source projects. I enjoy working on real-world problems, reading large codebases, and collaborating with developers across the globe.
 
+Currently focused on **Full-Stack Web Development**, **clean architecture**, and **open-source contributions**.
 
+---
 
-🎓 Frsher, B.Tech CSE Student(2025) | 👨‍💻 **Full Stack Developer** | 🚀 **Tech Explorer**
+## 🛠️ Tech Stack
 
-I'm a passionate web developer with a focus on building responsive and scalable web applications. I love working with the MERN stack (MongoDB, Express.js, React.js, Node.js) and enjoy turning ideas into real-world projects.
+**Frontend**
+- React.js, Next.js
+- HTML5, CSS3, JavaScript (ES6+)
+- Tailwind CSS, Bootstrap
 
-- 👨‍💻 All of my projects are available at [https://github.com/SWAPNIL2804RAJ?tab=repositories](https://github.com/SWAPNIL2804RAJ?tab=repositories)
+**Backend**
+- Node.js, Express.js
+- REST APIs, JWT Authentication
 
-- 📫 How to reach me **rajswapnil50@gmail.com**
+**Database**
+- MongoDB, SQL
 
-- 💼 View my Portfolio - [https://swapnilrajportfolio.vercel.app/](https://swapnilrajportfolio.vercel.app/)
+**Tools & Platforms**
+- Git & GitHub
+- Firebase
+- Linux (basics)
 
-- 📄 Resume (know about my experiences - [https://drive.google.com/file/d/19_zy66XJ7lbN0zeci8aNeqv6xFbalxjH/view](https://drive.google.com/file/d/19_zy66XJ7lbN0zeci8aNeqv6xFbalxjH/view)
+---
 
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/swapnil-raj-2804sr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil-raj-2804sr" height="30" width="40" /></a>
-</p>
+## 🌱 Open Source & Learning
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- Actively exploring and contributing to open-source projects
+- Learning to read, debug, and improve large production-level codebases
+- Interested in long-term community contributions through programs like **Google Summer of Code**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnil2804raj&show_icons=true&locale=en&layout=compact" alt="swapnil2804raj" /></p>
+---
 
+## 🚀 Featured Projects
+
+### 🔹 Data Alchemist
+AI-enabled data analytics web application with rule-based filtering and natural language querying.
+
+- Tech: React, Next.js, Node.js, MongoDB
+- Features: CSV ingestion, validation, editable tables, AI-powered queries
+- Status: Actively improving & extending
+
+### 🔹 Full-Stack MERN Applications
+Multiple full-stack projects involving authentication, dashboards, and real-world workflows.
+
+---
+
+## 📈 GitHub Activity
+
+I believe in **consistent learning and contribution**.  
+Currently working towards:
+- Improving documentation and code quality
+- Fixing bugs and adding features in open-source repositories
+- Writing clean commits and meaningful pull requests
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://swapnilrajportfolio.vercel.app
+- 📧 Email: your-email-here
+- 💼 LinkedIn: your-linkedin-here
+
+---
+
+⭐️ *Open to learning, collaboration, and open-source contributions.*
